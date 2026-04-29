@@ -4,6 +4,7 @@ import Solutions from "../components/Solutions";
 import Certificates from "../components/Certificates";
 import Contacts from "../components/Contacts";
 import Footer from "../components/Footer";
+import Partners from "../components/Partners";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <Hero />
       <Solutions />
       <Certificates />
+      <Partners />
       <Contacts />
       <Footer />
     </main>
